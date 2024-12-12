@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Mini Apps Catalog"
 include(":app")
 include(":otp")
+include(":wearosui")

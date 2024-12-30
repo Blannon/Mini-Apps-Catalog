@@ -23,3 +23,7 @@ rootProject.name = "Mini Apps Catalog"
 include(":app")
 include(":otp")
 include(":wearosui")
+include(":basic")
+include(":basicscodelab")
+include(":phonenumberlogin")
+include(":clothingstoreapp")

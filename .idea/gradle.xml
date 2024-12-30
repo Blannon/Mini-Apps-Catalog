@@ -11,7 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basic" />
+            <option value="$PROJECT_DIR$/basicscodelab" />
+            <option value="$PROJECT_DIR$/clothingstoreapp" />
             <option value="$PROJECT_DIR$/otp" />
+            <option value="$PROJECT_DIR$/phonenumberlogin" />
             <option value="$PROJECT_DIR$/wearosui" />
           </set>
         </option>
